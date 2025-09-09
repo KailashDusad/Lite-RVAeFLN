@@ -8,7 +8,7 @@ This repository contains MATLAB implementation of **Lite-RVAeFL, RV-TFLN, AeFLN,
 - `test_lite.m` → Test script  
 - Results → Plots and figures (`.fig`, `.jpg`)  
 
-## Example Result
+## Results
 Performance comparison (MSE vs iterations):
 
 ![Lite-RVFL Results](SI_Lite_RVFL.jpg)
